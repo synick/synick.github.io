@@ -1,13 +1,9 @@
 ---
-layout: page
+layout: page 
 title: About
-sidebar_link: true
+
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+# About.
+![Battery Widget]({{ '/assets/images/lukasz-circle.png' | relative_url }})
+Lukasz is the Head of Assurance at Context Information Security and one of the co-founders of TuskCon, Australia’s most disorganised conference on the beach. He regularly presents at various conferences around Australia and New Zealand and when he isn’t herding pentesters, you can find him building something useless in his woodworking shop.

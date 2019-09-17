@@ -1,9 +1,15 @@
 ---
-title: Rolling Kali with Packer
-published: true
+layout: post
+title: "Rolling Kali with Packer"
+date: 2016-09-15 16:25:06
+description: Built-in share buttons!
+share: true
+tags:
+ - packer
+ - kali
+ - vagrant
 ---
-
-[Link to another page](another-page).
+---
 
 I have been playing around with this for a while, and every time it because one of those 20% done projects in a private repo somewhere.
 

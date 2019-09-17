@@ -1,17 +1,6 @@
+_cache
 _site
-.sass-cache
-.jekyll-cache
-.git
-_site
-.DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
-node_modules
-package.json
+.idea/
 # Ignore docs files
 _gh_pages
 _site
@@ -61,3 +50,5 @@ Gemfile.lock
 _config.dev.yml
 .vscode
 *.gem
+.jekyll-cache
+.git
