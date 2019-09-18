@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Privilege Escalation"
+title: "Windows Privilege Escalation Lab"
 date: 2019-09-17 17:00:00
 description: First post of the Windows Privilege Escalation Series
 share: true
