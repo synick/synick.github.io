@@ -27,6 +27,12 @@ git clone https://github.com/synick/Windows-Privilege-Escalation-Labs.git
 
 The following command will get Lab0 up and running, this may take a while as the image needs to be downloaded from Vagrant Apps, so go make a cup of tea and watch a Netflix show.
 
+```
+C:\git\Windows-Privilege-Escalation-Labs>vagrant up
+```
+
+
+
 Once complete, you should see the terminal finished and the following presented in front of you. Make sure the output from the terminal is fully complete. As there is a 'slmgr /rearm' performed at the end, followed by a reboot. So, you might login, then all of a sudden the machine is rebooting. 
 
 ![Battery Widget]({{ '/assets/images/image-20190922114008609.png' | relative_url }})
