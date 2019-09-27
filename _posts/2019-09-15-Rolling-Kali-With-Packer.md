@@ -2,7 +2,7 @@
 layout: post
 title: "Rolling Kali with Packer"
 date: 2019-09-15 16:25:06
-description: Built-in share buttons!
+description: I got tired of constantly creating a new image of Kali for each assessment, or when just playing around with things. Plus, I wanted to keep the 'golden' image clean without any client information. So I created a script to automatically provision a Kali image using Packer.
 share: true
 tags:
  - packer

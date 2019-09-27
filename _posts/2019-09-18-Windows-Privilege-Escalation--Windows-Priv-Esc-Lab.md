@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Privilege Escalation Lab"
 date: 2019-09-17 17:00:00
-description: First post of the Windows Privilege Escalation Series
+description: First post of the Windows Privilege Escalation Series. This provides some of the background behind the project, and how to get started.
 share: true
 tags:
  - Windows
@@ -29,4 +29,3 @@ I have created a tool that leverages Packer and Vagrant to automatically build v
 Over the coming blog posts, I will be going through different Windows privilege escalation techniques and specify how to approach, enumerate and exploit them.
 
 So, stay tuned!
- 

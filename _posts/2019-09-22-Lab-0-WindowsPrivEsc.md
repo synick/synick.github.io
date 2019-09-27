@@ -2,7 +2,7 @@
 layout: post
 title: "Lab 0 - Setup and Intro"
 date: 2019-09-22
-description: Part of the Windows Privilege Escalation Lab Workshop
+description: This part contains the setup instructions, how to get the labs up and running using Vagrant and VitualBox.
 share: true
 tags:
 
